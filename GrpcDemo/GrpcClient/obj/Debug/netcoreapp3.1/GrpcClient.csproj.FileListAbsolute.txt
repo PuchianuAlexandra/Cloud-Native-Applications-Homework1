@@ -1,0 +1,38 @@
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.genruntimeconfig.cache
+C:\Users\puchi\OneDrive\Desktop\Anul2-Sem.2\Cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\puchi\OneDrive\Desktop\rezerva tema 1 cloud\GrpcDemo\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.genruntimeconfig.cache
